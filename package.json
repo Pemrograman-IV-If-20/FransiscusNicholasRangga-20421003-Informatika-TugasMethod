@@ -1,0 +1,17 @@
+{
+  "name": "api_1",
+  "version": "1.0.0",
+  "description": "Belajar API dengan nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "serve": "nodemon serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FransiscusNR_20421003",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
